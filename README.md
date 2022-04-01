@@ -23,7 +23,6 @@ java TicTacToeGame
 ## Screenshot(s)
 
 <img src="./images/screenshots/Tictactoe-Game-Screenshot.png" alt="Tictactoe Game Window" width="400"/>
-<br></br>
 
 ## Motivation
 
